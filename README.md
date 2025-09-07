@@ -24,7 +24,11 @@ Backend Developer в **db-fn** (dobrofon.org), занимаюсь разрабо
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
+
+### Операционные системы
+![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?style=for-the-badge&logo=artixlinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ### Frontend (базовые знания)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -36,7 +40,7 @@ Backend Developer в **db-fn** (dobrofon.org), занимаюсь разрабо
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 ## 🛠 Текущие проекты
-- **[dobrofon/core](https://github.com/db-fn/core)** - Django-платформа для благотворительности
+- **dobrofon/core** - Django-платформа для благотворительности
 - **vim-master** - Telegram бот для изучения Vim на aiogram 3.x
 - **saahy** - Telegram бот для путешествий и доставки
 
